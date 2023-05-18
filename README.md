@@ -6,4 +6,4 @@
 * Grid layout
 * Адаптивный интерфейс
 
-[Сам сайт]()
+[Сам сайт](https://dargx.github.io/russian-travel-bootcamp/)
