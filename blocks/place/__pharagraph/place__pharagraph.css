@@ -15,6 +15,8 @@
 @media (max-width: 994px) {
     .place__paragraph {
             font-size: 16px;
-            margin: 0 0 25px;
+            margin: 32px 0 26px;
+            padding-left: 16px;
+            padding-right: 16px;
         }
 }
