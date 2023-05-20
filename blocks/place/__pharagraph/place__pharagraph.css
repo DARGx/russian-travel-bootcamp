@@ -12,11 +12,18 @@
     margin: 0;
 }
 
-@media (max-width: 994px) {
+@media screen and (max-width: 1023px) {
     .place__paragraph {
-            font-size: 16px;
-            margin: 32px 0 26px;
-            padding-left: 16px;
-            padding-right: 16px;
-        }
+        font-size: 16px;
+        max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__paragraph {
+        font-size: 16px;
+        margin:32px 0 26px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
 }
